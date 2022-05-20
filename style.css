@@ -1,0 +1,39 @@
+*
+{
+    font-family: monospace;
+}
+
+body
+{
+    text-align: center;
+    background-color: #000000;
+}
+
+canvas
+{
+    border: 1px solid #ffffff;
+}
+
+input[type=color]
+{
+    border: none;
+    height: 50px;
+    width: 80px;
+}
+
+button
+{
+    border: none;
+    height: 50px;
+    width: 240px;
+}
+
+button:hover
+{
+    background-color: gray;
+}
+
+input[type=color]:hover
+{
+    background-color: black;
+}
